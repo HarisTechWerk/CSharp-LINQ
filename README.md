@@ -4,11 +4,11 @@ A hands-on **C# LINQ** project demonstrating powerful data querying techniques u
 
 ## 📌 Features
 
-✔ **LINQ Filtering** – Extract high earners based on salary  
-✔ **LINQ Sorting** – Order employees by salary in ascending/descending order  
-✔ **LINQ Grouping** – Organize employees by department  
-✔ **LINQ Aggregation** – Calculate total payroll, min, max, and average salary  
-✔ **LINQ Dictionaries** – Retrieve employee details by ID  
+ **LINQ Filtering** – Extract high earners based on salary  
+ **LINQ Sorting** – Order employees by salary in ascending/descending order  
+ **LINQ Grouping** – Organize employees by department  
+ **LINQ Aggregation** – Calculate total payroll, min, max, and average salary  
+ **LINQ Dictionaries** – Retrieve employee details by ID  
 
 ## 🛠 Technologies Used
 
@@ -29,8 +29,8 @@ dotnet run
 
 Here are some planned improvements for this project:
 
-- 🔹 **Connect LINQ with a Database** using **Entity Framework Core**  
-- 🔹 **Integrate LINQ with an API** for dynamic data processing  
-- 🔹 **Optimize Query Performance** using `AsParallel()` for parallel execution  
+-  **Connect LINQ with a Database** using **Entity Framework Core**  
+-  **Integrate LINQ with an API** for dynamic data processing  
+-  **Optimize Query Performance** using `AsParallel()` for parallel execution  
 
 
