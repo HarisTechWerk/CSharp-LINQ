@@ -25,12 +25,5 @@ cd CSharp-LINQ
 dotnet build
 dotnet run
 
-## 📈 Future Enhancements
-
-Here are some planned improvements for this project:
-
--  **Connect LINQ with a Database** using **Entity Framework Core**  
--  **Integrate LINQ with an API** for dynamic data processing  
--  **Optimize Query Performance** using `AsParallel()` for parallel execution  
 
 
