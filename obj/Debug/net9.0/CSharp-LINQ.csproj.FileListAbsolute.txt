@@ -1,0 +1,14 @@
+C:\Projects\CSharp-LINQ\bin\Debug\net9.0\CSharp-LINQ.exe
+C:\Projects\CSharp-LINQ\bin\Debug\net9.0\CSharp-LINQ.deps.json
+C:\Projects\CSharp-LINQ\bin\Debug\net9.0\CSharp-LINQ.runtimeconfig.json
+C:\Projects\CSharp-LINQ\bin\Debug\net9.0\CSharp-LINQ.dll
+C:\Projects\CSharp-LINQ\bin\Debug\net9.0\CSharp-LINQ.pdb
+C:\Projects\CSharp-LINQ\obj\Debug\net9.0\CSharp-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp-LINQ\obj\Debug\net9.0\CSharp-LINQ.AssemblyInfoInputs.cache
+C:\Projects\CSharp-LINQ\obj\Debug\net9.0\CSharp-LINQ.AssemblyInfo.cs
+C:\Projects\CSharp-LINQ\obj\Debug\net9.0\CSharp-LINQ.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp-LINQ\obj\Debug\net9.0\CSharp-LINQ.dll
+C:\Projects\CSharp-LINQ\obj\Debug\net9.0\refint\CSharp-LINQ.dll
+C:\Projects\CSharp-LINQ\obj\Debug\net9.0\CSharp-LINQ.pdb
+C:\Projects\CSharp-LINQ\obj\Debug\net9.0\CSharp-LINQ.genruntimeconfig.cache
+C:\Projects\CSharp-LINQ\obj\Debug\net9.0\ref\CSharp-LINQ.dll
